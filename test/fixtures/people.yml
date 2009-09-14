@@ -1,0 +1,16 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+valid_present:
+  first: Mei
+  last: Hong
+  present: true
+
+valid_absent:
+  first: Anup
+  last: Tesla
+  present: true
+
+has_tasks:
+  first: Busy
+  last: Susie
+  present: true
